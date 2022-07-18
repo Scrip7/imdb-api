@@ -6,7 +6,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.35.0
 	github.com/gojek/heimdall/v7 v7.0.2
 	github.com/iancoleman/strcase v0.2.0
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.8.0
 )
 
 require (
@@ -16,8 +16,9 @@ require (
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/stretchr/objx v0.3.0 // indirect
+	github.com/stretchr/objx v0.4.0 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
 require (
